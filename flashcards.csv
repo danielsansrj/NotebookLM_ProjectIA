@@ -1,0 +1,69 @@
+O que é Day Trade?,É uma operação de compra e venda de um ativo que é aberta e fechada no mesmo dia.
+"Qual é o principal objetivo de um Day Trader iniciante, segundo Fabrício Lorenz?","O foco inicial não deve ser em ganhar dinheiro, mas sim em entender o mercado, analisar corretamente e dominar as estratégias."
+"Em análise técnica, o que caracteriza uma tendência de alta?","A formação de topos e fundos ascendentes, onde o mercado sobe cada vez mais e cai cada vez menos."
+"Em análise técnica, o que caracteriza uma tendência de baixa?","A formação de topos e fundos descendentes, onde o mercado cai cada vez mais e sobe cada vez menos."
+O que é um mercado lateralizado ou em consolidação?,"É quando o mercado não está em uma tendência clara de alta ou de baixa, movimentando-se dentro de uma faixa de preços."
+"Dentro de uma tendência, a movimentação principal a favor da tendência é chamada de _____.",impulso
+"Dentro de uma tendência, a pequena retração ou recuo contra a movimentação principal é chamada de _____.",pullback (ou correção/recuo)
+O que é um nível de 'suporte' em análise técnica?,"É uma região de preço onde a força compradora tende a superar a vendedora, fazendo com que o preço pare de cair e potencialmente suba."
+O que é um nível de 'resistência' em análise técnica?,"É uma região de preço onde a força vendedora tende a superar a compradora, fazendo com que o preço pare de subir e potencialmente caia."
+O que acontece com um nível de suporte após ser rompido de forma significativa?,Ele tende a se transformar em um nível de resistência (princípio da polaridade).
+O que acontece com um nível de resistência após ser rompido de forma significativa?,Ela tende a se transformar em um nível de suporte (princípio da polaridade).
+Por que a análise técnica é comparada mais à psicologia ou a uma ciência humana do que a uma ciência exata como a engenharia?,"Porque ela reflete o comportamento agregado das pessoas (medo, ganância, expectativas) em relação a um ativo, não seguindo regras matemáticas rígidas."
+Qual é a analogia usada por 'Curinga Econômico' para descrever o mercado financeiro: xadrez ou pôquer?,"Pôquer, porque se trabalha com probabilidades e informações incompletas, não com movimentos previsíveis como no xadrez."
+"Segundo 'Curinga Econômico', quais são as duas coisas que um grande investidor institucional não consegue esconder?",O volume de suas operações e o impacto que causam nos preços (visível nos candles).
+Qual plataforma gráfica é recomendada e utilizada nos vídeos para análise técnica?,TradingView.
+O que é 'alavancagem' no contexto de trading?,É um serviço oferecido pela corretora que permite ao trader operar um volume financeiro maior do que o capital que ele possui em conta.
+Por que a alavancagem é considerada perigosa para iniciantes?,"Porque ela potencializa tanto os ganhos quanto as perdas, e iniciantes têm maior probabilidade de perder dinheiro."
+O que é a 'margem' exigida pela corretora em operações alavancadas?,É a garantia (em dinheiro ou outros ativos) que o trader precisa ter na conta para que a corretora tenha segurança de que ele honrará possíveis prejuízos.
+Qual é a variação mínima de preço (tick) nas ações no mercado brasileiro?,"Um centavo ($R\$ 0,01)."
+Qual é a variação mínima de preço (tick) no contrato de mini-índice (WIN)?,Cinco pontos.
+Cada ponto no mini-índice (WIN) equivale a quantos reais?,"Vinte centavos ($R\$ 0,20)."
+Qual é a variação mínima de preço (tick) no contrato de mini-dólar (WDO)?,"Meio ponto (0,5 ponto)."
+Cada ponto inteiro no mini-dólar (WDO) equivale a quantos reais?,"Dez reais ($R\$ 10,00)."
+O que é o padrão de candle 'Martelo'?,"É um candle de reversão altista, com corpo pequeno na parte superior e uma longa sombra inferior, que aparece após um movimento de queda."
+O que o candle 'Martelo' sinaliza psicologicamente?,"Uma forte rejeição de preços mais baixos e uma frustração da força vendedora, indicando uma possível entrada de compradores."
+O que é o padrão de candle 'Estrela Cadente' (Shooting Star)?,"É um candle de reversão baixista, com corpo pequeno na parte inferior e uma longa sombra superior, que aparece após um movimento de alta."
+O que o candle 'Estrela Cadente' sinaliza psicologicamente?,"Uma forte rejeição de preços mais altos e uma frustração da força compradora, indicando uma possível entrada de vendedores."
+O que é um candle 'Marubozu' de alta?,"É um candle de força que não possui sombras (ou sombras muito pequenas), com o preço de abertura na mínima e o de fechamento na máxima, indicando domínio total dos compradores."
+O que é um candle 'Marubozu' de baixa?,"É um candle de força que não possui sombras (ou sombras muito pequenas), com o preço de abertura na máxima e o de fechamento na mínima, indicando domínio total dos vendedores."
+O que é um 'Doji'?,"É um candle que representa indecisão ou dúvida no mercado, caracterizado por ter o preço de abertura e fechamento iguais ou muito próximos."
+O que é um padrão de gráfico 'Topo Duplo'?,"É um padrão de reversão baixista onde o preço atinge um nível de resistência duas vezes, falhando em romper na segunda tentativa, e depois reverte a tendência de alta."
+O que é um padrão de gráfico 'Fundo Duplo'?,"É um padrão de reversão altista onde o preço atinge um nível de suporte duas vezes, falhando em romper na segunda tentativa, e depois reverte a tendência de baixa."
+Como a Média Móvel Exponencial de 20 períodos é frequentemente utilizada em uma tendência?,"Como uma 'área de valor' dinâmica, funcionando como um suporte em tendências de alta e como uma resistência em tendências de baixa."
+"No indicador RSI (Índice de Força Relativa), um valor acima de 70 geralmente indica que o ativo está _____.",sobrecomprado (sobrevalorizado)
+"No indicador RSI (Índice de Força Relativa), um valor abaixo de 30 geralmente indica que o ativo está _____.",sobrevendido (subvalorizado)
+O que é uma 'divergência' no RSI?,"Ocorre quando o preço do ativo faz um novo topo (ou fundo) mas o RSI não acompanha, fazendo um topo mais baixo (ou fundo mais alto), sinalizando um possível enfraquecimento da tendência."
+"Por que operar ativos correlacionados, como Ouro e Prata ou Nasdaq e S&P 500, simultaneamente é desaconselhado na gestão de risco?","Porque, na prática, é como fazer a mesma operação duas vezes, dobrando o risco em uma única tese de mercado sem diversificação real."
+"Para um trader iniciante, qual é a abordagem mais segura em relação à tendência do mercado?",Operar sempre a favor da tendência principal e evitar tentar adivinhar reversões.
+A frase 'a tendência é sua amiga' ('the trend is your friend') significa que _____.,"a estratégia com maior probabilidade de sucesso, especialmente para iniciantes, é realizar operações na mesma direção da tendência predominante do mercado."
+Qual é a principal diferença entre os mercados de Ações/Forex de países desenvolvidos e os de países em desenvolvimento em termos de limites de preço?,"Pares de moedas de países desenvolvidos tendem a ter limites de movimento devido à intervenção de bancos centrais, enquanto ações e moedas de países em desenvolvimento podem ter movimentos muito mais extremos e sem limites claros."
+O que é 'liquidez' em um ativo financeiro?,"É a capacidade de comprar e vender o ativo rapidamente no preço desejado, sem causar uma grande variação em seu preço."
+O que é 'volatilidade' em um ativo financeiro?,"É a medida da intensidade e frequência com que o preço de um ativo se movimenta, para cima ou para baixo, em um determinado período."
+"Por que, para day trade, é preferível operar ativos com alta liquidez e alta volatilidade?","A alta liquidez garante a facilidade de entrar e sair das operações, enquanto a alta volatilidade proporciona as oscilações de preço necessárias para gerar lucro em curtos períodos."
+A afirmação 'Day Trader opera todos os dias' é um mito. Por quê?,"Porque um trader profissional opera apenas quando identifica uma oportunidade clara que se encaixa em sua estratégia, o que pode não acontecer todos os dias."
+O que diferencia um 'achista' de um trader profissional?,"O 'achista' opera com base em sentimentos e suposições, enquanto o trader profissional segue uma estratégia com regras claras de entrada, saída e manejo de risco."
+"Quanto mais curto o prazo operacional (ex: gráfico de 1 minuto vs. 15 minutos), o que acontece com a erraticidade do mercado?","A erraticidade aumenta, tornando os movimentos menos direcionais e mais difíceis de operar."
+Por que o gráfico de 15 minutos é frequentemente recomendado para traders iniciantes em vez de gráficos mais curtos?,"Porque oferece um bom equilíbrio entre direcionalidade (menos ruído), liquidez e quantidade de oportunidades, sendo menos errático que os gráficos de 1 ou 5 minutos."
+O que significa operar 'vendido' ou 'short'?,"Significa iniciar uma operação vendendo um ativo (que você não possui, alugado da corretora) na expectativa de que seu preço caia, para então recomprá-lo mais barato e lucrar com a diferença."
+Qual é a alíquota de Imposto de Renda sobre o lucro líquido mensal em operações de Day Trade no Brasil?,20%.
+"O que é o imposto de 1% retido na fonte em operações de Day Trade, conhecido como 'dedo-duro'?",É um adiantamento do imposto de renda que a corretora retém sobre o lucro de operações vitoriosas para informar à Receita Federal que o trader obteve ganhos.
+"Ao operar o mini-índice, o trader está especulando sobre a variação de qual índice da bolsa brasileira?","Do Ibovespa, que é a carteira teórica das ações mais negociadas na B3."
+"Ao operar o mini-dólar, o trader está especulando sobre a variação de qual par de moedas?",A variação cambial do Dólar Americano (USD) frente ao Real Brasileiro (BRL).
+O que é uma 'região de objeção' na análise de suportes e resistências?,"É uma área no gráfico onde o preço reverte de forma muito rápida e forte, formando um padrão em 'V' (suporte) ou 'A' (resistência), indicando uma forte atuação institucional."
+"O padrão de candle 'Enforcado' (Hanging Man) é idêntico a qual outro padrão, diferenciando-se apenas pelo contexto?","Ao Martelo. O Enforcado aparece após um movimento de alta e sinaliza reversão baixista, enquanto o Martelo aparece após uma queda e sinaliza reversão altista."
+Qual é a principal mensagem de um candle de 'dúvida' ou de corpo pequeno?,"Ele sinaliza que não há convicção na direção do movimento, pois nem compradores nem vendedores conseguiram dominar a sessão."
+Como um trader pode usar a expansão de Fibonacci em uma tendência de alta?,"Após um rompimento e um pullback, a ferramenta pode ser usada para projetar alvos de preço prováveis para a continuidade do movimento, como os níveis de 161,8% ou 200%."
+O que é um 'setup' de trading?,"É um conjunto de regras claras e objetivas, baseadas em padrões ou indicadores, que definem exatamente quando entrar em uma operação (gatilho), onde colocar o stop loss e onde realizar o lucro (alvo)."
+O que é 'backtest' de uma estratégia de trading?,"É o processo de aplicar as regras de uma estratégia a dados históricos do mercado para verificar seu desempenho passado, como taxa de acerto, lucro e drawdown."
+"Por que a experiência é crucial para um trader, mesmo que ele tenha uma estratégia lucrativa?","Porque a execução consistente da estratégia exige disciplina, controle emocional e a capacidade de lidar com períodos de perdas (drawdowns), o que só é desenvolvido com o tempo."
+"Qual a principal desvantagem de operar o mini-índice em comparação com ações individuais, segundo Fabrício Lorenz?","O mini-índice reflete uma cesta de 86 ações, que podem se mover em direções opostas, tornando seu movimento mais complexo e errático do que o de uma única ação direcional."
+"No mercado de ações, o que significa operar no 'mercado fracionário'?","Significa negociar uma quantidade de ações inferior ao lote padrão (que é de 100 ações), permitindo operar de 1 a 99 ações."
+O que representa o 'corpo' (body) de um candlestick?,Representa a diferença entre o preço de abertura e o de fechamento do período.
+O que representam as 'sombras' ou 'pavios' (wicks/shadows) de um candlestick?,"Representam os preços máximo e mínimo atingidos durante o período, para além da abertura e do fechamento."
+Qual é a principal diferença entre um 'trader sniper' e um trader que clica o tempo todo?,"O 'trader sniper' espera pacientemente pelo momento ideal e pela oportunidade que se alinha perfeitamente com sua estratégia, enquanto o outro opera por impulso e ansiedade."
+Quando uma tendência de baixa mostra um sinal de possível reversão para alta?,"Quando o preço falha em fazer um fundo mais baixo e, em seguida, rompe o topo da última pernada de impulso de baixa."
+Quando uma tendência de alta mostra um sinal de possível reversão para baixa?,"Quando o preço falha em fazer um topo mais alto e, em seguida, rompe o fundo da última pernada de impulso de alta."
+"Por que é importante para um trader ter uma organização financeira, especialmente se pretende viver do mercado?",Porque os ganhos no mercado são variáveis e haverá meses sem lucro; é preciso ter uma reserva para cobrir as despesas durante esses períodos.
+O que é um 'falso rompimento' (false breakout)?,"Ocorre quando o preço ultrapassa um nível de suporte ou resistência, mas não consegue se sustentar e rapidamente retorna para dentro da faixa anterior."
+O que é um 'gap' no gráfico de preços?,É um espaço vazio no gráfico que ocorre quando o preço de abertura de um período é significativamente maior ou menor que o preço de fechamento do período anterior.
